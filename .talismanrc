@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: module/http_downloader.py
+  checksum: 3ce3e2b9e68851d2afa32591792c71c34f20ac8ce72fa3c301d7e5b8ac4de241
+- filename: module/window/base_window.py
+  checksum: 99fe3204b16e037fe5c8c86449381cda74abaa077c4f569f00baef6d9cfefaa7
+- filename: module/window/main_window.py
+  checksum: b6ec089cf036e759e7c4cc7c1a52083bfcfa660c8fcf384861763ed07e6886e7

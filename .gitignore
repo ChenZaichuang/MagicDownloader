@@ -1,0 +1,8 @@
+.idea/
+**/*.log
+config/v2ray_json/*
+dist/
+build/
+log/
+*.dmg
+env-3.6/
